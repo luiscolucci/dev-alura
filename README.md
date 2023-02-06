@@ -1,3 +1,3 @@
 # dev-alura
-Portifólio DevOps Alura
-Aqui inicia meu portifólio criado na Imersão DevOps da Alura
+Python Alura
+Aqui inicia minha trilha na Alura
