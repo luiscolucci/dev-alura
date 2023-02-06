@@ -1,3 +1,2 @@
 # dev-alura
-Python Alura
-Aqui inicia minha trilha na Alura
+Python Alura, aqui inicia minha trilha na Alura.....
